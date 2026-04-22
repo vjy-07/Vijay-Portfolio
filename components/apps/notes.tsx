@@ -44,8 +44,7 @@ VS Code
 
 ## Contact
 Email: gvijaycrl@gmail.com
-GitHub: github.com/daprior
-Portfolio: danielprior.dev`,
+GitHub: github.com/vjy-07`,
       date: "Today, 10:30 AM",
     },
   ])
